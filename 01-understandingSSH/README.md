@@ -3,4 +3,4 @@
 # How to clone a git repo?
 - via https, require email and password to push. 
 - via ssh, does not require email and password to push.
-- via manually downloading the code
+- via manually downloading the code.
